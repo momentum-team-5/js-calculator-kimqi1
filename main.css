@@ -1,0 +1,187 @@
+*{
+    box-sizing: border-box;
+    font-size: large;
+    
+}
+
+#calculator-box{
+    height: 145px;
+    width: 300px;
+    background-color: lightskyblue; 
+      
+}
+
+#first-row {
+    display: flex;
+    flex-direction: row;
+}
+
+#clear-button {
+    width: 24%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#display-box {
+    width: 75%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#second-row {
+    display: flex;
+    flex-direction: row;
+} 
+
+#seven {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#eight {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#nine {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#divide {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: rgb(175, 240, 175);
+    margin: 3px;
+}
+#third-row {
+    display: flex;
+    flex-direction: row;
+}
+
+#four {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#five {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#six {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#multiply {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color:  rgb(175, 240, 175);;
+    margin: 3px;
+}
+
+#fourth-row {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#one {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#two {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#three {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#minus {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color:  rgb(175, 240, 175);
+    margin: 3px;
+}
+
+
+#fifth-row {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#zero {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#decimal {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#equal {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 3px;
+}
+
+#addition {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+    background-color:  rgb(175, 240, 175);
+    margin: 3px;
+}
+
+
+
+
