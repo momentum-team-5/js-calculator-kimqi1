@@ -1,15 +1,35 @@
 *{
     box-sizing: border-box;
     font-size: large;
+    font-weight: normal;
+    font-family: sans-serif;
     
 }
+body {
+    padding: 50px;
+    margin: 100px;
+    background: linear-gradient( to right, #00AAFF, #00FF6c);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+
 
 #calculator-box{
-    height: 145px;
+    height: 150px;
     width: 300px;
     background-color: lightskyblue; 
-      
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow: 5px 10px 20px;
+    
+
 }
+
+
 
 #first-row {
     display: flex;
@@ -22,6 +42,8 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #display-box {
@@ -30,6 +52,8 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #second-row {
@@ -43,6 +67,8 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #eight {
@@ -51,6 +77,8 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #nine {
@@ -59,14 +87,18 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #divide {
     width: 25%;
     height: 20%;
     text-align: center;
-    background-color: rgb(175, 240, 175);
+    background-color:#fcfc00;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 #third-row {
     display: flex;
@@ -79,6 +111,8 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #five {
@@ -87,6 +121,8 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #six {
@@ -95,14 +131,21 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
+
+
 
 #multiply {
     width: 25%;
     height: 20%;
     text-align: center;
-    background-color:  rgb(175, 240, 175);;
+    background-color:  #fcfc00;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
+    
 }
 
 #fourth-row {
@@ -117,6 +160,8 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #two {
@@ -125,6 +170,8 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #three {
@@ -133,20 +180,25 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #minus {
     width: 25%;
     height: 20%;
     text-align: center;
-    background-color:  rgb(175, 240, 175);
+    background-color:  #fcfc00;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 
 #fifth-row {
     display: flex;
     flex-direction: row;
+    
 
 }
 
@@ -156,6 +208,8 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #decimal {
@@ -164,22 +218,28 @@
     text-align: center;
     background-color: lawngreen;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #equal {
     width: 25%;
     height: 20%;
     text-align: center;
-    background-color: lawngreen;
+    background-color: ;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #addition {
     width: 25%;
     height: 20%;
     text-align: center;
-    background-color:  rgb(175, 240, 175);
+    background-color:  #fcfc00;
     margin: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 
